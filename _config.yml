@@ -37,7 +37,7 @@ include:
   - _pages
   
 logo: "/assets/images/main48.png"
-masthead_title: "My Custom Title"
+masthead_title: ""
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
