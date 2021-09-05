@@ -1,9 +1,9 @@
 ---
-permalink: /
-title: "About"
+permalink: getting-started
+title: "Getting started"
 ---
 
-# Getting started
+# Getting started Title
 
 Get started by
 
