@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "voyzu"
-  avatar : "/assets/images/main150.png"
+  avatar : "/assets/images/profile_picture.png"
   bio    : "some text dude"
   links:
     - label: "contacts"
