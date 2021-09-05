@@ -1,3 +1,8 @@
+---
+permalink: /
+title: "About"
+---
+
 # Getting started
 
 Get started by
