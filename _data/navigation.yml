@@ -1,26 +1,19 @@
 main:
   - title: "Getting Started"
     url: /gettingstarted/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About Me"
+  - title: "Shared Contacts"
+    url: /sharedcontacts/
+  - title: "Billing"
     url: /
 
 docs:
-  - title: Getting Started
+  - title: Shared Contacts
     children:
-      - title: "Quick-Start Guide"
+      - title: "Manage contacts"
         url: /docs/quick-start-guide/
-      - title: "Structure"
+      - title: "Users"
         url: /docs/structure/
-      - title: "Installation"
+      - title: "Import contacts"
         url: /docs/installation/
-      - title: "Upgrading"
+      - title: "Export contacts"
         url: /docs/upgrading/
-
-  - title: Customization
-    children:
-      - title: "Configuration"
-        url: /docs/configuration/
