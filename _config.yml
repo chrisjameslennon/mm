@@ -23,7 +23,8 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: neon
 search: true
-atom_feed: false
+atom_feed: 
+  hide: true
 
 # Build settings
 markdown: kramdown
