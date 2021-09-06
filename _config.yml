@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: voyzu help
+title: voyzu shared contacts manager help
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -37,7 +37,7 @@ include:
   - _pages
   
 logo: "/assets/images/main48.png"
-masthead_title: ""
+# masthead_title: "voyzu shared contacts manager help"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -80,15 +80,12 @@ author:
 
 footer:
   links:
+     - label: "voyzu.com"
+     # icon: "fab fa-fw fa-github"
+      url: "https://voyzu.com"
     - label: "install voyzu"
      # icon: "fab fa-fw fa-twitter-square"
       url: "https://marketplace"
-    - label: "voyzu.com"
-     # icon: "fab fa-fw fa-github"
-      url: "https://voyzu.com"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -97,7 +94,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
