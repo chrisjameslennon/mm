@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "About"
+sidebar:
+  nav: "docs"
 ---
 
 About me yes
