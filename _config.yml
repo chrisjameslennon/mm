@@ -80,7 +80,7 @@ author:
 
 footer:
   links:
-     - label: "voyzu.com"
+    - label: "voyzu.com"
      # icon: "fab fa-fw fa-github"
       url: "https://voyzu.com"
     - label: "install voyzu"
