@@ -10,10 +10,12 @@ docs:
   - title: Shared Contacts
     children:
       - title: "Manage contacts"
-        url: /docs/quick-start-guide/
+        url: /quick-start-guide/
       - title: "Users"
-        url: /docs/structure/
+        url: /users/
+      - title: "Labels"
+        url: /labels/
       - title: "Import contacts"
-        url: /docs/installation/
+        url: /import-contacts/
       - title: "Export contacts"
-        url: /docs/upgrading/
+        url: /export-contacts/
