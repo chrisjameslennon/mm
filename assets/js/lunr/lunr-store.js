@@ -6,9 +6,6 @@ layout: none
 
     {%- assign docs = site.pages  -%}
     
-    console.log ('the docs');
-     
-     console.log (docs);
 
 var store = [
 
@@ -26,8 +23,6 @@ var store = [
     "url": "/mm/blog/post-modified/",
     "teaser": null
 },
-    
-
 
     {%- for doc in docs -%}
       {%- if doc.header.teaser -%}
