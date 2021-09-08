@@ -8,7 +8,6 @@ sidebar:
 ## Overview
 
 Manage labels by doing stuff
-
 ## More information
 
 This is for stuff that doesn't fit in the overview
