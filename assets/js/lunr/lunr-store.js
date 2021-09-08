@@ -2,7 +2,6 @@
 layout: none
 ---
 
- // include site pages in search
 {%- assign docs = site.pages  -%}
     
 var store = [
