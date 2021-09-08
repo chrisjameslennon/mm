@@ -1,10 +1,10 @@
 main:
   - title: "Getting Started"
-    url: /gettingstarted/
+    url: /
   - title: "Shared Contacts"
     url: /sharedcontacts/
   - title: "Billing"
-    url: /
+    url: /billing/
 
 docs:
   - title: Shared Contacts
