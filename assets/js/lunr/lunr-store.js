@@ -2,28 +2,12 @@
 layout: none
 ---
 
-    console.log ('lunr park');
-
-    {%- assign docs = site.pages  -%}
+ // include site pages in search
+{%- assign docs = site.pages  -%}
     
-
 var store = [
 
-    {
-    "title": "Givusaclue",
-    "excerpt": "its a TV show givusaclue",
-    "categories": [
-        "Blog"
-    ],
-    "tags": [
-        "Post Formats",
-        "readability",
-        "standard"
-    ],
-    "url": "/mm/blog/post-modified/",
-    "teaser": null
-},
-
+    // loop through our pages, add only pages that have a title
     {%- for doc in docs -%}
       {%- if doc.header.teaser -%}
         {%- capture teaser -%}{{ doc.header.teaser }}{%- endcapture -%}
@@ -62,9 +46,8 @@ var store = [
         "url": {{ doc.url | relative_url | jsonify }},
         "teaser": {{ teaser | relative_url | jsonify }}
       },
-     {%- endif -%}
+    {%- endif -%}
     {%- endfor -%}
-    
     
   {%- for c in site.collections -%}
     {%- if forloop.last -%}
@@ -111,8 +94,4 @@ var store = [
     {%- endfor -%}
   {%- endfor -%}
   
-  
   ]
-  
-  console.log ('the store')
-  console.log (store)
