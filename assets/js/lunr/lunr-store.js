@@ -49,3 +49,6 @@ var store = [
       }{%- unless forloop.last and l -%},{%- endunless -%}
     {%- endfor -%}
   {%- endfor -%}]
+  
+  console.log ('the store')
+  console.log (store)
