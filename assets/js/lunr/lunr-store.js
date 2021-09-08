@@ -5,6 +5,10 @@ layout: none
     console.log ('lunr park')
 
 var store = [
+    {
+        "title":"giveusa clue"
+    },
+    
   {%- for c in site.collections -%}
     {%- if forloop.last -%}
       {%- assign l = true -%}
