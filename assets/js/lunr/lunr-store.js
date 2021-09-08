@@ -2,13 +2,13 @@
 layout: none
 ---
 
-    console.log ('lunr park')
+    console.log ('lunr park');
 
     {%- assign docs = site.pages  -%}
     
-    console.log ('the docs')
+    console.log ('the docs');
      
-     console.log (docs)
+     console.log (docs);
 
 var store = [
 
