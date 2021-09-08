@@ -5,9 +5,21 @@ layout: none
     console.log ('lunr park')
 
 var store = [
+
     {
-        "title":"giveusa clue"
-    },
+    "title": "Givusaclue",
+    "excerpt": "its a TV show givusaclue",
+    "categories": [
+        "Blog"
+    ],
+    "tags": [
+        "Post Formats",
+        "readability",
+        "standard"
+    ],
+    "url": "/mm/blog/post-modified/",
+    "teaser": null
+},
     
   {%- for c in site.collections -%}
     {%- if forloop.last -%}
