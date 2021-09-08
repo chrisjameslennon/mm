@@ -8,6 +8,11 @@ var store = [
     {%- assign l = true -%}
 {%- endif -%}
 {%- assign docs = site.pages  -%}
+
+{
+    "title":"fixed"
+}
+ 
 {%- for doc in docs -%}
     {%- if doc.header.teaser -%}
         {%- capture teaser -%}{{ doc.header.teaser }}{%- endcapture -%}
