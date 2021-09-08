@@ -31,6 +31,7 @@ var store = [
         {%- assign teaser = site.teaser -%}
       {%- endif -%}
       {
+         {%- if doc.title -%}
         "title": {{ doc.title | jsonify }},
         "excerpt":
           {%- if site.search_full_content == true -%}
@@ -61,6 +62,7 @@ var store = [
         "url": {{ doc.url | relative_url | jsonify }},
         "teaser": {{ teaser | relative_url | jsonify }}
       },
+     {%- endif -%}
     {%- endfor -%}
     
     
