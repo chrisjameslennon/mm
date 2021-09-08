@@ -4,6 +4,12 @@ layout: none
 
     console.log ('lunr park')
 
+    {%- assign docs = site.pages  -%}
+    
+    console.log ('the docs')
+     
+     console.log (docs)
+
 var store = [
 
     {
@@ -20,6 +26,10 @@ var store = [
     "url": "/mm/blog/post-modified/",
     "teaser": null
 },
+    
+
+    
+    
     
   {%- for c in site.collections -%}
     {%- if forloop.last -%}
