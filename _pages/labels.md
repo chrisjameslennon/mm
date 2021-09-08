@@ -3,7 +3,7 @@ permalink: /labels/
 title: "Manage Labels"
 author_profile: false
 sidebar:
-  nav: "docs"
+  nav: "sidebar"
 ---
 ## Overview
 
