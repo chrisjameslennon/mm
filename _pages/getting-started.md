@@ -1,5 +1,5 @@
 ---
-permalink: /gettingstarted/
+permalink: /
 title: "Getting started"
 author_profile: false
 sidebar:
