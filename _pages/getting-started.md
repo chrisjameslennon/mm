@@ -1,12 +1,14 @@
 ---
 permalink: /gettingstarted/
 title: "Getting started"
+author_profile: false
+sidebar:
+  nav: "sidebar"
 ---
+## Install
 
-# Getting started Title
+Install voyzu by doing stuff
 
-Get started by
+## Troubleshooting
 
-## doing stuff
-
-oh yes
+the trouble is 
