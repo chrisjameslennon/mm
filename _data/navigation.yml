@@ -6,7 +6,7 @@ main:
   - title: "Billing"
     url: /billing/
 
-docs:
+sidebar:
   - title: Shared Contacts
     children:
       - title: "Manage contacts"
