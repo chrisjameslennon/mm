@@ -6,8 +6,6 @@ layout: none
 {%- assign docs = site.pages  -%}
     
 var store = [
-
-    // loop through our pages, add only pages that have a title
     {%- for doc in docs -%}
       {%- if doc.header.teaser -%}
         {%- capture teaser -%}{{ doc.header.teaser }}{%- endcapture -%}
