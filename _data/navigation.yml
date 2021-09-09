@@ -2,7 +2,7 @@ main:
   - title: "Getting Started"
     url: /
   - title: "Shared Contacts"
-    url: /shared-contacts/
+    url: /sharedcontacts/
   - title: "Billing"
     url: /billing/
 
