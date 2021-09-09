@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /gone/
 title: "Getting started"
 author_profile: false
 sidebar:
