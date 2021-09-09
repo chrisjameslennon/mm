@@ -1,6 +1,8 @@
 ---
 permalink: /sharedcontacts/
-title: "Shared Contacts Manager Help"
+title: "Shared Contacts"
+author_profile: false
+layout: single
 sidebar:
   nav: "sidebar"
 ---
