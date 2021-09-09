@@ -1,29 +1,24 @@
-# Minimal Mistakes remote theme starter
+# Voyzu Shared Contacts Manager Help
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+## About
 
-edit
+This repository hosts the online help for Voyzu Shared Contacts Manager.  If you notice an error please raise an issue in this repository's issues.
 
-Contains basic configuration to get you a site with:
+# Technical info
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+This help is hosted by github pages (which is built on jekyll static site genration) and uses a remote theme.  This can be seen by opening the `_config.yml` file which contains the line:
+```yaml
+remote_theme: mmistakes/minimal-mistakes
+```
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+Content is written in markdown (.md files) which the jekyll engine transforms to html after any commit.  The navigation and templating engines are provided by the minimal mistakes template, which builds on standard jekyll functionality.
 
----
+At build time github pages will look for the applicable page in this repository, if this is not found it will look in the minimal mistakes remote theme repository.  (this may be over-simplifying but its how it seems to work)
 
-## Troubleshooting
+The following changes have been hard-coded, as the minimal mistakes theme did not seem to provide these features out of the box:
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+- `/assets/js/lunr/lunr-store.js` has been re-written so that content in the `_pages` directory (only) is searched
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+- `_includes/masthead.html` has been tweaked to delete the standard large text link in the top left of the menu.
+
+- `_includes/footer.html` has been tweaked to remove the default link icon and to remove the copywrite line

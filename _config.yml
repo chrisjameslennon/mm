@@ -63,35 +63,33 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "voyzu"
-  avatar : "/assets/images/profile_picture.png"
-  bio    : "some text dude"
-  links:
-    - label: "contacts"
-     # icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "users"
-    #  icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+# powers the left hand 'bio' (author_profile section, not used
+# author:
+#   name   : "voyzu"
+#   avatar : "/assets/images/profile_picture.png"
+#   bio    : "some text dude"
+#   links:
+#     - label: "contacts"
+#      # icon: "fas fa-fw fa-link"
+#       url: "https://"
+#     - label: "users"
+#     #  icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/"
 
 footer:
   links:
     - label: "voyzu.com"
      # icon: "fab fa-fw fa-github"
       url: "https://voyzu.com"
-    - label: "blog"
+    - label: "install Voyzu Shared Contacts Manager"
      # icon: "fab fa-fw fa-twitter-square"
-      url: "https://marketplace"
-    - label: "install voyzu"
-     # icon: "fab fa-fw fa-twitter-square"
-      url: "https://marketplace"
+      url: "https://workspace.google.com/marketplace/app/voyzu_shared_contacts_manager/337624936001?pann=ogb"
 
 defaults:
   # _posts
@@ -111,7 +109,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
