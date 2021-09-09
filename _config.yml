@@ -39,6 +39,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
   - /docs/_pages
+  - /_pages
   
 logo: "/assets/images/main48.png"
 # masthead_title: "voyzu shared contacts manager help"
