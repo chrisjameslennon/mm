@@ -2,7 +2,11 @@
 layout: none
 ---
 
-{% comment %} file modified by Chris Lennon {% endcomment %}
+{% comment %}
+This file is a port of minimal-mistakes/assets/js/lunr/lunr-store.js 
+It has been modified to search site pages not site blogs
+And a few other tweaks such as introducing a 'do_not_search' page property
+{% endcomment %}
     
 {%- assign docs = site.pages  -%}
     
