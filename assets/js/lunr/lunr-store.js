@@ -22,14 +22,6 @@ var store = [
         "title": {{ doc.title | jsonify }},
         "excerpt":
           {%- if site.search_full_content == true -%}
-                {%- if doc.excerpt -%}
-                
-                   {{ doc.excerpt | newline_to_br | strip_newlines }},
-                
-                {%- endif -%}
-
-
-                {%- unless doc.excerpt -%}
             {{ doc.content | newline_to_br |
               replace:"<br />", " " |
               replace:"</p>", " " |
@@ -51,7 +43,6 @@ var store = [
               replace:"</h5>", " " |
               replace:"</h6>", " "|
             strip_html | strip_newlines | truncatewords: 50 | jsonify }},
-          {%- endunless -%}
           {%- endif -%}
         "categories": {{ doc.categories | jsonify }},
         "tags": {{ doc.tags | jsonify }},
