@@ -26,6 +26,7 @@ are comfortable with the Terms and Privacy policy, and Voyzu Shared Contacts Man
 
 #### Launch
 Once install is complete, which is generally within 20 seconds or so, you and your domain users can launch Voyzu from the Google universal navigation icon
+
 ![help launching](https://voyzu.com/img/help_install_launch.png)
 
 #### Activate Voyzu by logging in
