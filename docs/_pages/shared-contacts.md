@@ -1,5 +1,5 @@
 ---
-permalink: /sharedcontacts/
+permalink: /shared-contacts/
 title: "Shared Contacts"
 author_profile: false
 layout: single
