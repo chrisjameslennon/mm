@@ -27,6 +27,7 @@ var store = [
               replace:"</p>", " " |
               replace:"</h1>", " " |
               replace:"</h2>", " " |
+              replace:"##", " " |
               replace:"</h3>", " " |
               replace:"</h4>", " " |
               replace:"</h5>", " " |
