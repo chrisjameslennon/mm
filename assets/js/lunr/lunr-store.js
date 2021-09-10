@@ -24,7 +24,7 @@ var store = [
           {%- if site.search_full_content == true -%}
                 {%- if doc.excerpt -%}
                 
-                   {{ doc.excerpt | newline_to_br | strip_newlines }}
+                   {{ doc.excerpt | newline_to_br | strip_newlines }},
                 
                 {%- else -%}
 
