@@ -5,7 +5,6 @@ author_profile: false
 sidebar:
   nav: "sidebar"
 ---
-
 ## Help installing and activating Voyzu Shared Contacts Manager
 
 Voyzu Shared Contacts Manager is available only to Google Workspace users, i.e. it cannot be installed with a regular Gmail account.
@@ -27,8 +26,7 @@ You will see a screen informing you of the specific access Voyzu has to your Goo
 instance, click on Accept
 once you
 are comfortable with the Terms and Privacy policy, and Voyzu Shared Contacts Manager for
-G
-Suite will be installed
+Google Workspace will be installed
 in your domain.
 <h4>Launch</h4>
 Once install is complete, which is generally within 20 seconds or so, you and your domain users can launch

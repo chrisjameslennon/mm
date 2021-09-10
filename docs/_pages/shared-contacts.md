@@ -6,7 +6,6 @@ layout: single
 sidebar:
   nav: "sidebar"
 ---
-
 ## Help Voyzu Shared Contacts Manager
 
 Help me
