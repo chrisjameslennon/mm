@@ -7,15 +7,16 @@ sidebar:
 toc: true
 ---
 
+## Billing Frequently Asked Questions
 
-## Where can I view my account information?
+### Where can I view my account information?
 
 Go to...
 
-## Can I cancel?
+### Can I cancel?
 
 yes!
 
-## Is it expensive?
+### Is it expensive?
 
 no, its pretty reasonable!!
