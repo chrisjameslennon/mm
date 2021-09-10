@@ -8,9 +8,9 @@ Voyzu Shared Contacts Manager is available only to Google Workspace users, i.e. 
 
 The online software is very simple to install and activate, as there is full integration with you as a Google Workspace administrator. Follow these simple steps to install and activate Voyzu:
 
-## Installing and activating Voyzu Shared Contacts Manager
+### Installing and activating Voyzu Shared Contacts Manager
 
-### As a domain administrator, install from the Google Workspace marketplace
+#### As a domain administrator, install from the Google Workspace marketplace
 
 Follow <a target="_blank"
   href="https://gsuite.google.com/u/0/marketplace/app/voyzu_contacts_directory/337624936001">this
@@ -23,18 +23,18 @@ contacts.
 You will see a screen informing you of the specific access Voyzu has to your Google Workspace instance, click on Accept, once you
 are comfortable with the Terms and Privacy policy, and Voyzu Shared Contacts Manager for Google Workspace will be installed in your domain.
 
-### Launch
+#### Launch
 Once install is complete, which is generally within 20 seconds or so, you and your domain users can launch Voyzu from the Google universal navigation icon
 ![help launching](https://voyzu.com/img/help_install_launch.png)
 
-### Activate Voyzu by logging in
+#### Activate Voyzu by logging in
 After launching Voyzu you will be taken to the Voyzu login screen - select your Google Workspace administator account and log in.
 
 Once you have logged in for the first time, Voyzu is now active and available to all
 users on your domain.
 You can control access by clicking the 'Users' menu item in Voyzu.
 
-## Troubleshooting
+### Troubleshooting
 If you are having problems logging in to Voyzu, here are some things you can check
 
 #### I receive an error message saying Voyzu has not been installed for my domain
