@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Getting started"
-author_profile: false
+layout: single
 sidebar:
   nav: "sidebar"
 ---
@@ -62,7 +62,7 @@ From Google Workspace Admin navigate to Apps > Google Workspace Marketplace apps
 that the application is available to all users, and all scopes have been granted
 ![google admin access](https://voyzu.com/img/help_gsm_access.png)
 
-#### I receive an error message saying Voyzu has not yet been activated</h6>
+#### I receive an error message saying Voyzu has not yet been activated
 Check that a domain administrator has installed Voyzu and has logged in at least once.
 
 #### I receive an error message: "You do not have permission to access Voyzu."

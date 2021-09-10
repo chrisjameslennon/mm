@@ -1,10 +1,15 @@
 ---
 permalink: /billing/
 title: "Billing"
-author_profile: false
 layout: single
 sidebar:
   nav: "sidebar"
 ---
 
-## We bill you muchos $$$
+## Where can I view my account information?
+
+Go to...
+
+### Can I cancel?
+
+yes!
