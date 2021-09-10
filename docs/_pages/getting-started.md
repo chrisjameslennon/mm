@@ -4,8 +4,6 @@ title: "Getting started"
 layout: single
 toc: true
 ---
-## Help installing and activating Voyzu Shared Contacts Manager
-
 Voyzu Shared Contacts Manager is available only to Google Workspace users, i.e. it cannot be installed with a regular Gmail account.
 
 The online software is very simple to install and activate, as there is full integration with you as a Google Workspace administrator. Follow these simple steps to install and activate Voyzu:
