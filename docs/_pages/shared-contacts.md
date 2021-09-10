@@ -1,11 +1,12 @@
 ---
 permalink: /shared-contacts/
 title: "Shared Contacts"
-author_profile: false
 layout: single
 sidebar:
   nav: "sidebar"
 ---
-## Help Voyzu Shared Contacts Manager
+## Voyzu Shared Contacts Manager Help
 
-Help me
+Choose one of the help topics on the left to get started.
+
+Not quite sure what else could go here
