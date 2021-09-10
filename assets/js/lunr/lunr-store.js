@@ -2,6 +2,8 @@
 layout: none
 ---
 
+{% comment %} file modified by Chris Lennon {% endcomment %}
+    
 {%- assign docs = site.pages  -%}
     
 var store = [
@@ -27,11 +29,11 @@ var store = [
               replace:"</p>", " " |
               replace:"</h1>", " " |
               replace:"</h2>", " " |
-              replace:"##", "wtf" |
               replace:"</h3>", " " |
               replace:"</h4>", " " |
               replace:"</h5>", " " |
               replace:"</h6>", " "|
+              replace:"##", "" |
             strip_html | strip_newlines | jsonify }},
           {%- else -%}
             {{ doc.content | newline_to_br |
@@ -43,6 +45,7 @@ var store = [
               replace:"</h4>", " " |
               replace:"</h5>", " " |
               replace:"</h6>", " "|
+              replace:"##", "" |
             strip_html | strip_newlines | truncatewords: 50 | jsonify }},
           {%- endif -%}
         "categories": {{ doc.categories | jsonify }},
