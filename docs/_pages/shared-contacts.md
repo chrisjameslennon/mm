@@ -5,7 +5,7 @@ layout: single
 sidebar:
   nav: "sidebar"
 header:
-  teaser: help teaser
+  excerpt: help teaser
 ---
 ## Voyzu Shared Contacts Manager Help
 
