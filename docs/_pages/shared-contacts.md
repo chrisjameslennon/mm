@@ -4,7 +4,7 @@ title: "Shared Contacts"
 layout: single
 sidebar:
   nav: "sidebar"
-excerpt: "help teaser"
+excerpt: "help teasing"
 ---
 ## Voyzu Shared Contacts Manager Help
 
@@ -16,4 +16,4 @@ something?
 
 ## Heading here
 
-below the exerpt
+below the exerpt!
