@@ -2,6 +2,7 @@
 permalink: /
 title: "Getting started"
 layout: single
+classes: wide
 ---
 ## Help installing and activating Voyzu Shared Contacts Manager
 
