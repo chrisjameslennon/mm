@@ -8,6 +8,7 @@ toc: false
 ---
 ###### Default sharing mode
 Voyzu supports two modes for new domain users:
+
 **Share by default**
 In this mode new domain users will automatically have the
 <code>#voyzu shared</code> contacts label
