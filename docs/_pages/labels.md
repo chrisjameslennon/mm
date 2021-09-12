@@ -6,6 +6,6 @@ sidebar:
   nav: "sidebar"
 toc: false
 ---
-<data-voyzu-help>
+<data-voyzu-help/>
 You can maintain a central list of labels
-</data-voyzu-help>
+<data-voyzu-help/>
