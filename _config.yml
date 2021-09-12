@@ -92,7 +92,10 @@ footer:
     - label: "install Voyzu Shared Contacts Manager"
      # icon: "fab fa-fw fa-twitter-square"
       url: "https://workspace.google.com/marketplace/app/voyzu_shared_contacts_manager/337624936001?pann=ogb"
-
+    - label: "view on github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/chrisjameslennon/mm"
+      
 defaults:
   # _posts
   - scope:
