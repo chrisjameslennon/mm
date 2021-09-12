@@ -18,7 +18,9 @@ sidebar:
       - title: "Import contacts"
         url: /import-contacts/
       - title: "Export contacts"
-        url: /export-contacts
+        url: /export-contacts/
+      - title: "Settings"
+        url: /settings/
   - title: More information
     children:
       - title: "Shared contact FAQs"
