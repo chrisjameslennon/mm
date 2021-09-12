@@ -25,9 +25,8 @@ layout: default
       {%- when "lunr" -%}
         <input type="text" id="search" class="search-input" placeholder="{{ site.data.ui-text[site.locale].search_placeholder_text | default: 'search documentation for ..' }}" />
         <div id="results" class="results">
-           <hr/>the header
         </div>
-               <hr/>the final header
+         <hr/>
       {%- when "google" -%}
         <form onsubmit="return googleCustomSearchExecute();" id="cse-search-box-form-id">
         <input type="text" id="cse-search-input-box-id" class="search-input" placeholder="{{ site.data.ui-text[site.locale].search_placeholder_text | default: 'search documentation for ...' }}" />
