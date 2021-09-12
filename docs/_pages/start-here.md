@@ -1,5 +1,5 @@
 ---
-permalink: /start/
+permalink: /start-here/
 title: "Voyzu Shared Contacts Documentation"
 layout: search
 sidebar:
