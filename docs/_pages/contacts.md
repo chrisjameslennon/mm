@@ -1,6 +1,6 @@
 ---
-permalink: /labels/
-title: "Manage contact labels"
+permalink: /contacts/
+title: "Manage shared contacts"
 layout: single
 sidebar:
   nav: "sidebar"
