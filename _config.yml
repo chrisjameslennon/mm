@@ -87,7 +87,7 @@ plugins:
 footer:
   links:
     - label: "voyzu.com"
-      icon: ""
+      icon: " "
       url: "https://voyzu.com"
     - label: "install Voyzu Shared Contacts Manager"
       icon: " "
