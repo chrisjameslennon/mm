@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /getting-started/
 title: "Getting started"
 layout: single
 sidebar:
