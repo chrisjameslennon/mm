@@ -8,9 +8,9 @@ toc: true
 ---
 The online software is very simple to install and activate, as there is full integration with you as a Google Workspace administrator. Note that Voyzu Shared Contacts Manager is available only to Google Workspace users, i.e. it cannot be installed with a regular Gmail account
 
-Follow these simple steps to install and activate Voyzu:
+Follow these simple steps to install and activate Voyzu
 
-## Installing and activating Voyzu Shared Contacts Manager
+### Installing and activating Voyzu Shared Contacts Manager
 
 #### 1.  As a domain administrator, install from the Google Workspace marketplace
 
@@ -37,16 +37,16 @@ Once you have logged in for the first time, Voyzu is now active and available to
 users on your domain.
 You can control access by clicking the 'Users' menu item in Voyzu.
 
-## Troubleshooting
+### Troubleshooting
 If you are having problems logging in to Voyzu, here are some things you can check
 
-### I receive an error message saying Voyzu has not been installed for my domain
+#### I receive an error message saying Voyzu has not been installed for my domain
 It can take a short while (minutes not hours) for Google to sync install data. If you receive
 this
 warning immediately after
 installing Voyzu then wait a minute or so and try again.
 
-### I receive an error message 'popup_closed_by_user'
+#### I receive an error message 'popup_closed_by_user'
 You will get this message if you close the Google 'choose account' screen without selecting an account. If however you are receiving
 this error even when you select your account, then you may need to enable third party cookies on your browser.  Third party cookies are a requirement for Google's authentication to work.
 
