@@ -7,7 +7,7 @@ main:
     url: /billing/
 
 sidebar:
-  - title: Shared Contacts
+  - title: Shared Contacts Help
     children:
       - title: "Manage contacts"
         url: /quick-start-guide/
@@ -21,3 +21,6 @@ sidebar:
         url: /export-contacts
       - title: "Billing"
         url: /billing/
+  - title: More information
+    children:
+      - title: "Directory vs shared contacts"
