@@ -9,3 +9,4 @@ toc: false
 <data-voyzu-help/>
 You can maintain a central list of labels
 <data-voyzu-help/>
+oh yes you can
