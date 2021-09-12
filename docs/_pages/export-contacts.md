@@ -1,6 +1,6 @@
 ---
 permalink: /export-contacts/
-title: "Exports contacts to a Google Sheet"
+title: "Export contacts to a Google Sheet"
 layout: single
 sidebar:
   nav: "sidebar"
