@@ -1,4 +1,6 @@
 main:
+  - title: "Documentation home"
+    url: /start-here/
   - title: "Getting started"
     url: /
   - title: "Shared Contacts Help"
