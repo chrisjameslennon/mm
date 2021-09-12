@@ -1,5 +1,5 @@
 ---
-permalink: /lables/
+permalink: /labels/
 title: "Manage contact labels"
 layout: single
 sidebar:
