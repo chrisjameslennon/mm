@@ -14,5 +14,5 @@ Clicking the 'view import history' link will allow you to see a history of all p
 
 ###### Importing from other file formats e.g. CSV
 To import from a file, e.g. a CSV file you must first import the file into your
-  google contacts. See the [voyzu.com help article](import-csv) for step by step instructions
+  google contacts. See the [voyzu.com help article](import-csv) for step by step instructions.
 <!--voyzu help content-->
