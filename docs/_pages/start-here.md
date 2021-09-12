@@ -1,6 +1,6 @@
 ---
-permalink: /start-here/
-title: "Voyzu Shared Contacts Documentation"
+permalink: /
+title: "Voyzu Shared Contacts Manager Docs"
 layout: search
 sidebar:
   nav: "sidebar"
