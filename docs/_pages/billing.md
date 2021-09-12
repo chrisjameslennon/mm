@@ -1,14 +1,11 @@
 ---
 permalink: /billing/
-title: "Billing"
+title: "Billing Frequently Asked Questions"
 layout: single
 sidebar:
   nav: "sidebar"
 toc: true
 ---
-
-## Billing Frequently Asked Questions
-
 ### Where can I view my account information?
 
 Go to...
