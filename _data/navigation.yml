@@ -7,6 +7,10 @@ main:
     url: /billing/
 
 sidebar:
+  - title: Getting started
+    children:
+      - title: "Getting started"
+        url: /
   - title: Shared Contacts Help
     children:
       - title: "Manage contacts"
@@ -23,6 +27,8 @@ sidebar:
         url: /settings/
   - title: More information
     children:
+      - title: "Release log"
+        url: /release-log/
       - title: "Shared contact FAQs"
         url: /shared-contact-faqs/
       - title: "Directory vs shared contacts"
