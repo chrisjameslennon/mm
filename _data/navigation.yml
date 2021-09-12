@@ -27,3 +27,13 @@ sidebar:
         url: /shared-contact-faqs/
       - title: "Directory vs shared contacts"
         url: /directory-vs-shared/
+  - title: How to
+    children:
+      - title: "Import contacts from a file"
+        url: /import-file/
+      - title: "Mail merge to contacts"
+        url: /mail-merge/
+  - title: Billing Help
+    children:
+      - title: "Billing FAQs"
+        url: /billing/
