@@ -40,13 +40,13 @@ You can control access by clicking the 'Users' menu item in Voyzu.
 ## Troubleshooting
 If you are having problems logging in to Voyzu, here are some things you can check
 
-#### I receive an error message saying Voyzu has not been installed for my domain
+### I receive an error message saying Voyzu has not been installed for my domain
 It can take a short while (minutes not hours) for Google to sync install data. If you receive
 this
 warning immediately after
 installing Voyzu then wait a minute or so and try again.
 
-#### I receive an error message 'popup_closed_by_user'
+### I receive an error message 'popup_closed_by_user'
 You will get this message if you close the Google 'choose account' screen without selecting an account. If however you are receiving
 this error even when you select your account, then you may need to enable third party cookies on your browser.  Third party cookies are a requirement for Google's authentication to work.
 
