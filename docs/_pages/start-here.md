@@ -6,8 +6,7 @@ sidebar:
   nav: "sidebar"
 toc: false
 ---
-<hr/>
-### Welcome
+## Welcome
 
 to the Voyzu Shared Contacts documentation site.  If you have not yet installed Voyzu Shared Contacts Manager you can [install it](market) - also see [getting started](getting-started)
 
