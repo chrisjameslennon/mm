@@ -21,5 +21,7 @@ sidebar:
         url: /export-contacts
   - title: More information
     children:
+      - title: "Shared contact FAQs"
+        url: /shared-contact-faqs/
       - title: "Directory vs shared contacts"
         url: /directory-vs-shared/
