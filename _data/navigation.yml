@@ -1,8 +1,8 @@
 main:
   - title: "Documentation home"
-    url: /start-here/
-  - title: "Getting started"
     url: /
+  - title: "Getting started"
+    url: /getting-started/
   - title: "Shared Contacts Help"
     url: /contacts/
   - title: "Billing"
@@ -12,7 +12,7 @@ sidebar:
   - title: Getting started
     children:
       - title: "Getting started"
-        url: /
+        url: /getting-started/
   - title: Shared Contacts Help
     children:
       - title: "Manage contacts"
