@@ -2,7 +2,7 @@ main:
   - title: "Getting started"
     url: /
   - title: "Shared Contacts Help"
-    url: /shared-contacts/
+    url: /contacts/
   - title: "Billing"
     url: /billing/
 
@@ -10,17 +10,16 @@ sidebar:
   - title: Shared Contacts Help
     children:
       - title: "Manage contacts"
-        url: /quick-start-guide/
-      - title: "Users"
+        url: /contacts/
+      - title: "Manager Users"
         url: /users/
-      - title: "Labels"
+      - title: "Manage Labels"
         url: /labels/
       - title: "Import contacts"
         url: /import-contacts/
       - title: "Export contacts"
         url: /export-contacts
-      - title: "Billing"
-        url: /billing/
   - title: More information
     children:
       - title: "Directory vs shared contacts"
+        url: /directory-vs-shared/
