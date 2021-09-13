@@ -11,7 +11,7 @@ This help is hosted by github pages (which is built on [jekyll](https://jekyllrb
 remote_theme: mmistakes/minimal-mistakes
 ```
 
-Content is written in markdown (technically [kramdown](https://kramdown.gettalong.org)) which the jekyll build engine transforms to html after any commit.  The navigation and templating is provided by the minimal mistakes template, which builds on standard jekyll functionality.
+Content is written in markdown (technically [kramdown](https://kramdown.gettalong.org)) which the jekyll build engine transforms to html after any commit.  The navigation and templating is provided by the minimal mistakes template, which builds on standard jekyll functionality, which in turn builds on shopify's open source templating language [liquid](https://shopify.github.io/liquid/)
 
 At build time (i.e. after every committ) github pages will look for the applicable page in this repository, if this is not found it will look in the minimal mistakes remote theme repository.  For example - most pages (`/docs/_pages`) specify the layout `single` in their page front matter.  At build time the Jekyll engine will look for a layout named "single" in the `_layouts` folder.  If it doesn't find one it uses the [minimal mistakes layout](https://github.com/mmistakes/minimal-mistakes/blob/master/_layouts/single.html) 
 
