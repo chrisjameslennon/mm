@@ -6,6 +6,7 @@ sidebar:
   nav: "sidebar"
 toc: false
 ---
+<!--voyzu help content-->
 <p class="lead color-2 italic mb-1">An overview of the differences between G Suite Directory
 contacts and Voyzu shared contacts</p>
 
