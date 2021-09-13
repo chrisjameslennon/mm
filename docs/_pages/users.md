@@ -8,7 +8,7 @@ toc: false
 ---
 <!--voyzu help content-->
 This page shows a list (updated every hour) of all your G Suite domain users.
-On this screen you can choose which users you want to replicate the master voyzu contacts list
+On this screen you can choose which users you want to replicate the master Voyzu contacts list
 to.
 Users you are replicating contacts to
 will have a <code>#voyzu shared</code> label created in their Google contacts
@@ -20,8 +20,8 @@ automatically and that label will contain all contacts in your Voyzu contacts ma
 - Only Domain administrators can manage users (i.e. see the Users screen)
 
 ###### Default settings
-When you first install Voyzu only the Voyzu Google Workspace administrator will have
+When you first install Voyzu all users (up to a limit of 50 unless you have purchased a high volume plan) will have
 replication turned on.
-By default any new domain users created since install will have replication enabled.
-You can change replication defaults in 'Settings' which can be accessed via the cog
-icon on the top right of the screen.
+By default any new domain users created after you installed Voyzu will have replication enabled.
+You can change replication defaults for new users in 'Settings' which can be accessed via the cog
+icon on the top right of the application.
