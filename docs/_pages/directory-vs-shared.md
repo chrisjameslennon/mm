@@ -1,10 +1,10 @@
 ---
-permalink: /shared-contacts-faqs/
-title: "Shared Contact FAQs"
+permalink: /directory-vs-shared/
+title: "Directory contacts vs Voyzu Shared Contacts"
 layout: single
 sidebar:
   nav: "sidebar"
-toc: true
+toc: false
 ---
 <p class="lead color-2 italic mb-1">An overview of the differences between G Suite Directory
 contacts and Voyzu shared contacts</p>
