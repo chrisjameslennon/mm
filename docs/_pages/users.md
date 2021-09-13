@@ -6,7 +6,7 @@ sidebar:
   nav: "sidebar"
 toc: false
 ---
-<data-voyzu-help/>
+<!--voyzu help content-->
 This page shows a list (updated every hour) of all your G Suite domain users.
 On this screen you can choose which users you want to replicate the master voyzu contacts list
 to.
@@ -25,4 +25,3 @@ replication turned on.
 By default any new domain users created since install will have replication enabled.
 You can change replication defaults in 'Settings' which can be accessed via the cog
 icon on the top right of the screen.
-<data-voyzu-help/>
