@@ -6,19 +6,17 @@ This repository hosts the online help for Voyzu Shared Contacts Manager.  If you
 
 # Technical info
 
-This help is hosted by github pages (which is built on jekyll static site genration) and uses a remote theme, [minimal mistakes](https://github.com/mmistakes/minimal-mistakes).  This can be seen by opening the `_config.yml` file which contains the line:
+This help is hosted by github pages (which is built on [jekyll](https://jekyllrb.com/) static site genration) and uses a remote theme, [minimal mistakes](https://github.com/mmistakes/minimal-mistakes).  This can be seen by opening the `_config.yml` file which contains the line:
 ```yaml
 remote_theme: mmistakes/minimal-mistakes
 ```
 
-Content is written in markdown (technically [kramdown](https://kramdown.gettalong.org)) which the jekyll build engine transforms to html after any commit.  The navigation and templating engines are provided by the minimal mistakes template, which builds on standard jekyll functionality.
+Content is written in markdown (technically [kramdown](https://kramdown.gettalong.org)) which the jekyll build engine transforms to html after any commit.  The navigation and templating is provided by the minimal mistakes template, which builds on standard jekyll functionality.
 
-At build time github pages will look for the applicable page in this repository, if this is not found it will look in the minimal mistakes remote theme repository.  (this may be over-simplifying but its how it seems to work)
+At build time (i.e. after every committ) github pages will look for the applicable page in this repository, if this is not found it will look in the minimal mistakes remote theme repository.  For example - most pages (`/docs/_pages`) specify the layout `single` in their page front matter.  At build time the Jekyll engine will look for a layout named "single" in the `_layouts` folder.  If it doesn't find one it uses the [minimal mistakes layout](https://github.com/mmistakes/minimal-mistakes/blob/master/_layouts/single.html) 
 
-The following changes have been hard-coded, as the minimal mistakes theme did not seem to provide these features out of the box:
+A few minimal mistakes files have been ported into this repository, so they could be modified to give functionality that the minimal mistakes tempalte did not provide out of the box. In most cases this is to allow for very minor customization, for example deleting the final footer line, removing top link text in the masthead etc.  Where files have been modified there is generally some sort of commenting at the top of the file describing what has changed.
 
-- `/assets/js/lunr/lunr-store.js` has been re-written so that content in the `_pages` directory (only) is searched
-
-- `_includes/masthead.html` has been tweaked to delete the standard large text link in the top left of the menu.
-
-- `_includes/footer.html` has been tweaked to remove the default link icon and to remove the copywrite line
+Note also that:
+- `/assets/js/lunr/lunr-store.js` has been modified to support searching pages (not blog posts)
+- `/assets/css/main.scss` has been modified to make some tweaks to text size and link onHover behaviour
