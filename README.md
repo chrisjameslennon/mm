@@ -4,7 +4,7 @@
 
 This repository hosts the online help for Voyzu Shared Contacts Manager.  If you notice an error please raise an issue in this repository's issues.
 
-# Technical info
+## Technical info
 
 This help is hosted by github pages (which is built on [jekyll](https://jekyllrb.com/) static site genration) and uses a remote theme, [minimal mistakes](https://github.com/mmistakes/minimal-mistakes).  This can be seen by opening the `_config.yml` file which contains the line:
 ```yaml
