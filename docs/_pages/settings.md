@@ -6,6 +6,7 @@ sidebar:
   nav: "sidebar"
 toc: false
 ---
+<!--voyzu help content-->
 ###### Default sharing mode
 Voyzu supports two modes for new domain users:
 
