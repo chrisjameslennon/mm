@@ -7,7 +7,7 @@ sidebar:
 toc: false
 ---
 <!--voyzu help content-->
-This page shows a list (updated every hour) of all your G Suite domain users.
+This page shows a list (updated every hour) of all your Google Workspace domain users.
 On this screen you can choose which users you want to replicate the master Voyzu contacts list
 to.
 Users you are replicating contacts to
