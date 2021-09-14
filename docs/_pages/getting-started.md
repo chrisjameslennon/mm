@@ -42,9 +42,7 @@ If you are having problems logging in to Voyzu, here are some things you can che
 
 ### I receive an error message saying Voyzu has not been installed for my domain
 It can take a short while (minutes not hours) for Google to sync install data. If you receive
-this
-warning immediately after
-installing Voyzu then wait a minute or so and try again.
+this warning immediately after installing Voyzu then wait a minute or so and try again.
 
 ### I receive an error message 'popup_closed_by_user'
 You will get this message if you close the Google 'choose account' screen without selecting an account. If however you are receiving
