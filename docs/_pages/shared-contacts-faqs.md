@@ -16,14 +16,14 @@ Voyzu contacts are automatically downloaded into a special `#voyzu shared` folde
 ###### Are contacts that don't have #voyzu shared label ever shared with other users?
 No. Your private contacts remain private and are never shared with other users. Only contacts you choose to share (i.e. those with the `#voyzu shared` label) are shared
 
-###### Can I share contacts with users outside my G Suite domain?
+###### Can I share contacts with users outside my Google Workspace domain?
 No. Voyzu Shared Contacts for Google Workspace has been purpose designed to allow companies and organizations to maintain a global list of organization-wide contacts.
 
 ###### Can I control which users have access to the `#voyzu shared` label?
 You can, as a domain administrator. Log in to Voyzu and navigate to the 'Users' menu. From there you can search for users and select which users you want to give access to company shared contacts
 
 ###### How do I import contacts into my Voyzu Shared Contacts?
-You can import Google contacts into Voyzu via the "Import Contacts" feature, see [the import contacts help](/import-contacts/) for more on this.
+You can import Google contacts into Voyzu via the "Import Contacts" feature, see [the import contacts help](import-contacts/) for more on this.
 
 ###### When I add a new user to my Google Workspace domain, will they automatically get access to shared contacts?
 Yes - this is the default. You can change this setting by logging into Voyzu and clicking the 'Settings' cog.  See [the settings help](/settings/) for more on this.
