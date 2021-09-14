@@ -61,8 +61,9 @@ you are sure your file has no duplicate entries.
   <img class="img-responsive rounded" src="https://voyzu.com/img/import_csv_voyzu1.png" alt="" />
 </figure>
 
+  You can find more detailed help on how to import contacts into Voyzu in the [import contacts](../import-contacts/) help.
 
-<h4>Optional: View imported contacts</h4>
+## Optional: View imported contacts
 <p>If you want to see which contacts were imported in a particular import this can be done in two steps.  Firstly click on
  'view import history' to show a list of all your imports.  Copy the import id to the clipboard
 <figure class="shadow rounded mb-5">
