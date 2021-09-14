@@ -3,7 +3,7 @@ permalink: /mail-merge/
 title: "Mail merge to your shared contacts"
 layout: single
 sidebar:
-nav: "sidebar"
+  nav: "sidebar"
 toc: true
 ---
 Step by step instructions on how to perform a mail merge using a popular Google Workspace plug in, Yet Another Mail Merge
@@ -24,8 +24,8 @@ limit</a> is 2000 per day) starting at USD $28 per year
 ## 2.  Compose your email template as a draft
 
 From within [Gmail](https://mail.google.com) click on 'Drafts' and compose a new email.
-Compose the email template just as you would a regular email. To insert merge fields enclose fields in {{...}} for
-example Dear {{First Name}} {{Last Name}}
+Compose the email template just as you would a regular email. To insert merge fields enclose fields in `{{...}}` for
+example `Dear {{First Name}} {{Last Name}}`
 
 ## 3.  Launch Yet Another Mail Merge and import contacts
 
