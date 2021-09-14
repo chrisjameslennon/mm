@@ -8,7 +8,7 @@ toc: false
 ---
 ## 20 February 2020
 VOYZU CONTACTS DIRECTORY RELEASED
-- The ability to manage your G Suite External Contacts directory has been moved to a brand new product Voyzu Contacts Directory
+- The ability to manage your Google Workspace External Contacts Directory has been moved to a brand new product - Voyzu Contacts Directory
 
 ## 6 January 2020
 VOYZU SHARED CONTACTS MANAGER RELEASED
