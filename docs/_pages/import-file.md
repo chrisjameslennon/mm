@@ -12,27 +12,25 @@ Voyzu allows you to import contacts from one of your Google Contacts labels.  If
 are not in your Google contacts you will need to first import them into Google contacts, and then import them in Voyzu.  Here are step
 by step instructions on how to do this:
 
-#### Establish a Google Contacts template file
+## 1.  Establish a Google Contacts template file
 
 Google Contacts will only allow you to import contacts in a specific format, with the
 standard contact column headings.
 The easiest way to get a blank file in this format is to select a contact or contact
 label in your [Google contacts](https://contacts.google.com) and export it.
 
-|![](https://voyzu.com/img/import_csv_label_export.png)  |  ![](https://voyzu.com/img/import_csv_export.png)|
-
-![alt-text-1](https://voyzu.com/img/import_csv_label_export.png) ![alt-text-2](https://voyzu.com/img/import_csv_export.png)
+|:![](https://voyzu.com/img/import_csv_label_export.png)  |  ![](https://voyzu.com/img/import_csv_export.png):|
 
 This will create a file containing the contact you exported, and more importantly the
-column headings you need.</p>
+column headings you need.
 
-<h4>Populate the spreadsheet</h4>
-<p>Open this file and add the contacts data you need to.
-</p>
+## 2.  Populate the spreadsheet
+Open this file and add the contacts data you need to.
 
-<h4>Upload the spreadsheet</h4>
+## 3.  Upload the spreadsheet
 
-<p>Upload the spreadsheet to Google contacts. 
+Upload the spreadsheet to Google contacts.
+
 Click the 'Import' button in Google contacts.  Note you do not need to apply a label at this point.  Do not
 apply the #voyzu shared label to these imported contacts
 <figure class="shadow rounded mb-5">
