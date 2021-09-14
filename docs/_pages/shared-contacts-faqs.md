@@ -6,8 +6,10 @@ sidebar:
   nav: "sidebar"
 toc: true
 ---
-here are some FAQs
-## FAQs
+Frequently asked questions about how Voyzu contact sharing works
+
+## The FAQs
+
 ###### How does contact sharing work in Voyzu?7
 Voyzu contacts are automatically downloaded into a special #voyzu shared folder within Google contacts. Synchronization is one way - changes you make within Voyzu are automatically applied to users' Google contacts. Changes users make in within Google contacts are not synchronized.
 
