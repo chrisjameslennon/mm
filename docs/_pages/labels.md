@@ -13,4 +13,3 @@ So you can easily distinguish Voyzu shared labels from your personal contact lab
 <!--voyzu help content-->
 
 Note that as with all contact management functionality in Voyzu, changes are one-way only.  Any label changes that you make in Google contacts will be ignored, make all contact changes in Voyzu.
-<!--voyzu help content-->
