@@ -33,8 +33,6 @@ sidebar:
         url: /release-log/
       - title: "Shared contact FAQs"
         url: /shared-contacts-faqs/
-      - title: "Directory vs shared contacts"
-        url: /directory-vs-shared/
   - title: How to
     children:
       - title: "Import contacts from a file"
