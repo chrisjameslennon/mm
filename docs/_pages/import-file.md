@@ -33,43 +33,27 @@ Upload the spreadsheet to Google contacts.
 
 Click the 'Import' button in Google contacts.  Note you do not need to apply a label at this point.  Do not
 apply the #voyzu shared label to these imported contacts
-<figure class="shadow rounded mb-5">
+![](https://voyzu.com/img/import_csv_no_label.png)
 
-  <img class="img-responsive rounded" src="https://voyzu.com/img/import_csv_no_label.png" alt="" />
+A new label will automatically be created to hold the imported contacts.
+![](https://voyzu.com/img/import_csv_new_label.png)
 
-</figure>
-A new label will automatically be created
-to hold the imported contacts.
-
-<figure class="shadow rounded mb-5">
-
-  <img class="img-responsive rounded" src="https://voyzu.com/img/import_csv_new_label.png" alt="" />
-
-</figure>
 You will be asked if you want to check for duplicates, this is good practice unless
 you are sure your file has no duplicate entries.
-<figure class="shadow rounded mb-5">
-  <img class="img-responsive rounded" src="https://voyzu.com/img/import_csv_dups.PNG" alt="" />
-</figure>
-</p>
+![](https://voyzu.com/img/import_csv_dups.PNG)
 
-## 4. Import contacts into Voyzu</h4>
-<p>Finally log in to Voyzu Shared Contacts and click 'Import' in the top menu.  Select the Google Contact label
+## 4. Import contacts into Voyzu
+Finally log in to Voyzu Shared Contacts and click 'Import' in the top menu.  Select the Google Contact label
  that holds your imported contacts and click on 'Import Contacts'.  All contacts in the label will be imported into
  your Voyzu master list, and added to all your domain users who particpate in contact sharing.
-<figure class="shadow rounded mb-5">
-  <img class="img-responsive rounded" src="https://voyzu.com/img/import_csv_voyzu1.png" alt="" />
-</figure>
+![](https://voyzu.com/img/import_csv_voyzu1.png)
 
-  You can find more detailed help on how to import contacts into Voyzu in the [import contacts](../import-contacts/) help.
+ You can find more detailed help on how to import contacts into Voyzu in the [import contacts](../import-contacts/) help.
 
 ## Optional: View imported contacts
-<p>If you want to see which contacts were imported in a particular import this can be done in two steps.  Firstly click on
+  
+If you want to see which contacts were imported in a particular import this can be done in two steps.  Firstly click on
  'view import history' to show a list of all your imports.  Copy the import id to the clipboard
-<figure class="shadow rounded mb-5">
+![](https://voyzu.com/img/import_csv_importid.PNG)
 
-  <img class="img-responsive rounded" src="https://voyzu.com/img/import_csv_importid.PNG" alt="" />
-
-</figure>
 The second step is to go to the 'contacts' screen in voyzu and paste this value into the search box.  All contact imported this this batch will be shown.
-</p>
