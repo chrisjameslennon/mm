@@ -25,7 +25,7 @@ limit</a> is 2000 per day) starting at USD $28 per year
 
 From within [Gmail](https://mail.google.com) click on 'Drafts' and compose a new email.
 Compose the email template just as you would a regular email. To insert merge fields enclose fields double curly braces:
-{% raw %} `{{...}}` {% endraw %} for example {% raw %} `Dear {{First Name}} {{Last Name}}` {% endraw %}
+{% raw %} {{...}} {% endraw %} for example {% raw %} Dear {{First Name}} {{Last Name}} {% endraw %}
 
 ## 3.  Launch Yet Another Mail Merge and import contacts
 
