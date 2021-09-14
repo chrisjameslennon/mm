@@ -7,7 +7,7 @@ sidebar:
 toc: false
 ---
 <!--voyzu help content-->
-Select whether you want to create a new Google Sheets document, or export to an
+To export your Voyzu contacts master list select whether you want to create a new Google Sheets document, or export to an
 existing spreadsheet, and click 'Export'.
 If you are exporting to an existing spreadsheet, contacts will be exported to the
 first and second tabs of this sheet, over-writing
