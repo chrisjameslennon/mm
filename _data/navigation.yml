@@ -15,8 +15,8 @@ sidebar:
         url: /contacts/
       - title: "Manager users"
         url: /users/
-      - title: "Manage labels"
-        url: /labels/
+#       - title: "Manage labels"
+#         url: /labels/
       - title: "Import contacts"
         url: /import-contacts/
       - title: "Export contacts"
