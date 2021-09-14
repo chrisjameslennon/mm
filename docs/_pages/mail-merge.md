@@ -24,14 +24,22 @@ limit</a> is 2000 per day) starting at USD $28 per year
 ## 2.  Compose your email template as a draft
 
 From within [Gmail](https://mail.google.com) click on 'Drafts' and compose a new email.
-Compose the email template just as you would a regular email. To insert merge fields enclose fields in `{{...}}` for
-example `Dear {{First Name}} {{Last Name}}`
+Compose the email template just as you would a regular email. To insert merge fields enclose fields double curly braces:
+{% raw %}
+```
+{{...}}
+
+for example:
+
+Dear {{First Name}} {{Last Name}}
+````
+{% endraw %}
 
 ## 3.  Launch Yet Another Mail Merge and import contacts
 
 Create a new Google Sheet or use an existing one, and on the top menu click Add ons > Yet Another Mail Merge > Import contacts
 
-<img src="https://voyzu.com/img/screen_yamm_start.png"></figure>
+<img src="https://voyzu.com/img/screen_yamm_start.png">
 
 Click the option to import Google Contacts ...
 
@@ -39,7 +47,7 @@ Click the option to import Google Contacts ...
   
 ... and import contacts from your #voyzu shared label
 
-<img src="https://voyzu.com/img/screen_yamm_group.png"></figure>
+<img src="https://voyzu.com/img/screen_yamm_group.png">
 
 ## 4.  Filter rows (optional)
 
