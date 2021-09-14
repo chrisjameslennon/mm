@@ -23,3 +23,4 @@ unless you specifically allow them access (which can be done in the 'users' scre
 ## Access to settings
 Viewing and managing settings is an admin only function, only domain admins
 or delegated admins can see this page.
+<!--voyzu help content-->
