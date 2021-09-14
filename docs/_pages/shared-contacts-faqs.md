@@ -28,8 +28,8 @@ You can import Google contacts into Voyzu via the "Import Contacts" feature, see
 ###### When I add a new user to my Google Workspace domain, will they automatically get access to shared contacts?
 Yes - this is the default. You can change this setting by logging into Voyzu and clicking the 'Settings' cog.  See [the settings help](/settings/) for more on this.
 
-###### Can I apply other labels to contacts having the `#voyzu shared` label?
-Currently voyzu does not have the ability to synchronize labels, this feature is currently under development.
+###### Can I apply other labels to shared contacts in addition to the `#voyzu shared` label?
+Currently voyzu does not have the ability to share labels, this feature is currently under development.
 
 ###### Is there a limit to the number of users I can share contacts with across my Google Workspace domain?
 Yes there is a limit of 50 users participating in contacts sharing. If you want to share across more than 50 users then [contact us](https://voyzu.com/contact.html) to learn more about our higher volume plans
