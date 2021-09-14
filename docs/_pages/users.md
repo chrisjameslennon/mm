@@ -25,3 +25,4 @@ replication turned on.
 By default any new domain users created after you installed Voyzu will have replication enabled.
 You can change replication defaults for new users in 'Settings' which can be accessed via the cog
 icon on the top right of the application.
+<!--voyzu help content-->
