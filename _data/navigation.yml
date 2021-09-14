@@ -3,10 +3,6 @@ main:
     url: /
   - title: "Getting started"
     url: /getting-started/
-  - title: "Shared Contacts Help"
-    url: /contacts/
-  - title: "Billing"
-    url: /billing/
 
 sidebar:
   - title: Getting started
