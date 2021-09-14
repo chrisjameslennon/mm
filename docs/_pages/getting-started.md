@@ -73,8 +73,7 @@ request access.
 
 ### I receive an error message "Please log in using your primary domain email address"
 
-Currently Voyzu Shared Contacts Manager only supports a single domain per G
-Suite account. Admins and regular users must sign in using their primary domain email address, signing in with a secondary domain address is not supported
+Admins and regular users must sign in using their primary domain email address, signing in with a secondary domain address is not supported
 
 ### I have checked all of these and still can't login
 It is possible Voyzu doesn't have the API access it needs.  Check out <a href="https://support.google.com/a/answer/7281227?hl=en">this support article</a>
