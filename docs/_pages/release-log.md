@@ -15,7 +15,7 @@ VOYZU SHARED CONTACTS MANAGER RELEASED
 
 **_New_**:
 - First release of our subscription based product. Users can now share regular Google contacts, enabling:
-- Users can manage Google contacts without leaving the Google / G Suite environment. I.e. they can use the contact screens they are familiar with to manage contacts.
+- Users can manage Google contacts without leaving the Google / Google Workspace environment. I.e. they can use the contact screens they are familiar with to manage contacts.
 - Users can import, export and print contacts
 - Users can take advantage of Google Contacts duplicate checking
 - Full mobile device support for shared contacts via the Google Contacts App
@@ -44,8 +44,8 @@ EXPORT CONTACTS | CONTACT TYPE AND STATUS | FIELDS RE-ALIGNED | CONTACT EDIT SCR
 **_Enhancements_**:
 - Contact edit - 'Main' screen re-designed
 - The front tab of the contact edit screen has been re-designed to support more fields, including contact notes
-- Settings screen now displays the Voyzu G Suite administrator
-- The settings screen (accessible from the cog icon on the top right, and visible only to domain administrators) now shows the name and email of the Voyzu G Suite administrator
+- Settings screen now displays the Voyzu Google Workspace administrator
+- The settings screen (accessible from the cog icon on the top right, and visible only to domain administrators) now shows the name and email of the Voyzu Google Workspace administrator
 
 ## 6 February 2019
 IMPORT CONTACTS
@@ -60,6 +60,6 @@ IMPORT CONTACTS
 INITIAL RELEASE
 
 **_New_**:
-- Voyzu Contacts Directory for G Suite released to the G Suite marketplace
+- Voyzu Contacts Directory for Google Workspace released to the Google Workspace marketplace
 - Manage Directory Contacts
 - Manage user access
