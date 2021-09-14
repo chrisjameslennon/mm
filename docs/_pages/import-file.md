@@ -19,7 +19,7 @@ standard contact column headings.
 The easiest way to get a blank file in this format is to select a contact or contact
 label in your [Google contacts](https://contacts.google.com) and export it.
 
-|:![](https://voyzu.com/img/import_csv_label_export.png)  |  ![](https://voyzu.com/img/import_csv_export.png):|
+|![](https://voyzu.com/img/import_csv_label_export.png)  |  ![](https://voyzu.com/img/import_csv_export.png)|
 
 This will create a file containing the contact you exported, and more importantly the
 column headings you need.
@@ -53,14 +53,14 @@ you are sure your file has no duplicate entries.
 </figure>
 </p>
 
-<h4>Import contacts into Voyzu</h4>
+## 4. Import contacts into Voyzu</h4>
 <p>Finally log in to Voyzu Shared Contacts and click 'Import' in the top menu.  Select the Google Contact label
  that holds your imported contacts and click on 'Import Contacts'.  All contacts in the label will be imported into
  your Voyzu master list, and added to all your domain users who particpate in contact sharing.
 <figure class="shadow rounded mb-5">
   <img class="img-responsive rounded" src="https://voyzu.com/img/import_csv_voyzu1.png" alt="" />
 </figure>
-</p>
+
 
 <h4>Optional: View imported contacts</h4>
 <p>If you want to see which contacts were imported in a particular import this can be done in two steps.  Firstly click on
